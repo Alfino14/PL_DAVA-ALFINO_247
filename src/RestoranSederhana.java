@@ -4,6 +4,8 @@ public class RestoranSederhana {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        //Dava alfino rafly
+
         String[] menu = {"Nasi Goreng", "Mie Ayam", "Es Teh"};
         int[] harga = {10000, 12000, 3000};
 
